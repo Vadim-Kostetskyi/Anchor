@@ -3,7 +3,7 @@ import MainLayout from "../../modules/core/components/MainLayout";
 function HomePage() {
   return (
     <>
-      <MainLayout>h1</MainLayout>
+      <MainLayout>h2</MainLayout>
     </>
   );
 }
